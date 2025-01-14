@@ -1,5 +1,5 @@
 // oyunda kullanılacak kelimelerin listesi
-const kelimeler = ["adana", "ankara", "antalya", "bursa", "bolu", "bilecik", "çanakkale", "denizli", "edirne", "erzurum", "gaziantep", "giresun", "hatay", "ısparta", "istanbul", "izmir", "konya", "kütahya", "kars", "malatya", "muğla", "mardin", "nevşehir", "ordu", "rize", "samsun", "siirt", "trabzon", "tekirdağ", "uşak", "van", "yalova", "zonguldak"];
+const kelimeler = ["adana", "ankara", "antalya", "izmit", "bursa", "bolu", "bilecik", "çanakkale", "denizli", "edirne", "erzurum", "giresun", "hatay", "ısparta", "istanbul", "izmir", "konya", "kütahya", "kars", "malatya", "muğla", "mardin", "nevşehir", "ordu", "rize", "samsun", "siirt", "trabzon", "tekirdağ", "uşak", "van", "yalova", "zonguldak", "afyon", "ağrı", "balıkesir", "çankırı", "düzce", "elazığ", "eskişehir", "hakkari", "karaman", "kütahya", "manisa", "mersin", "muş", "niğde", "osmaniye", "sakarya", "sivas", "şanlıurfa", "tokat", "tunceli", "şırnak", "yalova", "yozgat", "bayburt", "bartın", "ardahan", "karabük", "kilis", "sinop", "çorum", "gaziantep", "gümüşhane", "kırıkkale", "kırklareli", "kırşehir", "kocaeli"];
 
 // oyun değişkenleri
 let secilenKelime = "";
